@@ -1,4 +1,4 @@
-const PORT = process.eventNames.PORT || 8000 // deploying on heroku
+const PORT = 8000 
 const express = require('express')
 const axios = require('axios')
 const cheerio = require('cheerio')
